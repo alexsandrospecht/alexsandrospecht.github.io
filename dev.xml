@@ -1,0 +1,16 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://testdata/home</loc>
+    <lastmod>2011-12-06T17:38:21+00:00</lastmod>
+    <priority>0.5</priority>
+    <changefreq>weekly</changefreq>
+    <owner>alexsandro.specht+saml_test@pagefreezer.com</owner>
+  </url>
+  <url>
+    <loc>https://testdata/clients</loc>
+    <lastmod>2011-12-06T17:38:21+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>weekly</changefreq>
+    <owner>alexsandro.specht+saml_test@pagefreezer.com</owner>
+  </url>
+</urlset>
